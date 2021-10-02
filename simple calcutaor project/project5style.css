@@ -1,0 +1,13 @@
+input {
+    background-color: lightcoral;
+    color: black;
+    border: solid black 2px;
+    width: 100%;
+    /* padding: 3px; */
+
+}
+input[type="text"]{
+    background-color: white;
+    border: solid black 2px;
+    color: black;
+}
